@@ -10,3 +10,4 @@ let isPangram = s => {
         .length === 0;//We want to know if it's empty, therefore we want to know if it has zero elements, so we'll look at its length property". 
 };
 console.log(isPangram(panagram));
+ //=> is arrow function
