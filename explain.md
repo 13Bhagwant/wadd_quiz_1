@@ -1,0 +1,1 @@
+In this code a has value of 7 and b is 0. For loop tells that i is equal to 7 and it is grater than and eual to 'a' and it add to ifinity.it runs the function that in 'b' it will  add the numbers starting from 7 to infinity until we stop it.
